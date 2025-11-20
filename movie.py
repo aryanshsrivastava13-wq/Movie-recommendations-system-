@@ -1,0 +1,1 @@
+{"cells": [{"cell_type": "markdown", "metadata": {}, "source": ["# Movie Recommender"]}, {"cell_type": "code", "metadata": {}, "source": ["import pandas as pd\ndf=pd.read_csv('movies.csv')\ndf"]}], "metadata": {"kernelspec": {"display_name": "Python", "language": "python", "name": "python3"}}, "nbformat": 4, "nbformat_minor": 5}
